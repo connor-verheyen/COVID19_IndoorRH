@@ -8,11 +8,14 @@ Globally, the COVID-19 pandemic has resulted in over forty million confirmed cas
 ## Repository Structure and Contents
 
 ### data 
+Folder that stores the datasets used in the project. 
+
 1. '7DaySmooth_ALLVars_Dataset_2020_08_10_GE50_Deaths.xlsx'
-   * This is the main dataset used in the study. Used for the main text and most supplemental material. 
+   * This is the main dataset used in the study. Used for the main text and most of the supplemental material. 
 2. Raw Dataset = 'PADDED_Dataset_2020_08_10_GE50_Deaths.xlsx'
    * This is the raw dataset (no smoothing applied). 
 3. '3DaySmooth_ALLVars_Dataset_2020_08_10_GE50_Deaths.xlsx'
    * This is an alternative dataset (3-day rolling avg applied vs. 7-day rolling avg for main dataset). 
 4. '7DaySmooth_ALLVars_Dataset_2020_10_19_GE100_Deaths.csv' 
    * This is the most recently retrieved dataset, used for confirmation of the study results. 
+
