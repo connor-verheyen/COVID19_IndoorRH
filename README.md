@@ -19,3 +19,11 @@ Folder that stores the compiled datasets used in the project.
 4. 7DaySmooth_ALLVars_Dataset_2020_10_19_GE100_Deaths.csv
    * This is the most recently retrieved dataset, used for confirmation of the study results. 
 
+### main_figures 
+Folder that stores the compiled datasets used in the project. 
+
+### supplementary_analysis
+Folder that stores the compiled datasets used in the project. 
+
+### useful_functions_and_scripts 
+Folder that stores the compiled datasets used in the project. 
