@@ -43,5 +43,3 @@ Folder that stores all of the IPython notebooks that contain supplemental analys
 
 ### useful_functions_and_scripts 
 Folder that stores various snippets of code that were useful for the project 
-
-1. 
