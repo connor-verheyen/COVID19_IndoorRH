@@ -11,22 +11,24 @@
 Folder that stores the compiled datasets used in the project. 
 
 1. Main text dataset
-   * This is the primary dataset for this study. Used for the main text as well as many supplemental analyses. 
+   * 7DaySmooth_ALLVars_Dataset_2020_08_10_GE50_Deaths
+   * This is the primary dataset for this study
+   * Used for the main text and several supplemental analyses
 
 2. Supplementary data sub-directory 
    * Follow-up validation datasets (to confirm the main study conclusions with newer datasets collected Dec 2020 and Jan 2021)  
    * Alternatively-processed datasets (to evaluate the effect of different upstream data pre-processing steps)
-   * Outdoor and indoor climate datasets (to validate the indoor relative humidity extrapolation workflow)  
+   * Outdoor and indoor climate datasets (to validate the indoor relative humidity extrapolation workflow with experimental measurements)  
 
 ### main_text
 Folder that stores the IPython notebook and the finalized figures for the analysis presented in the main text of the paper. 
 
-1. Main_Text_Figures_and_Stats
-2. Figure 1 
-3. Figure 2 
-4. Figure 3 
-5. Figure 4 
-6. Figure 5 
+1. Main_Text_Figures_and_Stats 
+2. Figure 1 - Graphical abstract and description and validation of indoor humidity estimation workflow
+3. Figure 2 - Geospatial and temporal variability in ambient conditions and COVID-19 outbreaks
+4. Figure 3 - Predicting the dependency of COVID-19 on indoor relative humidity
+5. Figure 4 - Intermediate indoor relative humidity is significantly associated with better COVID-19 outcomes
+6. Figure 5 - The association between intermediate indoor RH and better COVID-19 outcomes is robust
 
 ### supplementary_analysis
 Folder that stores all of the IPython notebooks that contain supplemental analyses and supporting information for the paper. 
@@ -59,10 +61,10 @@ Folder that stores all of the IPython notebooks that contain supplemental analys
    *  We retrieved and processed new datasets on December 3rd, 2020 and January 27, 2021 to obtain updated COVID-19 statistics and meteorological data. We repeated the analysis from the main text to confirm the validity of our main conclusions. 
 
 10. Supplementary_Section_10__Additional_Information_For_Regressions
-   * We explored how parameter modifications in the regression algorithms altered the fitted models and also provide scatter plots of underlying data and residuals.
+    * We explored how parameter modifications in the regression algorithms altered the fitted models and also provide scatter plots of underlying data and residuals.
 
 11. Supplementary_Section_11__Sensitivity_Modifying_Outbreak_Analytical_Windows
-   * We examined how changing the analytical window of the normalized timeline modified the observed relationships between indoor RH and COVID-19. 
+    * We examined how changing the analytical window of the normalized timeline modified the observed relationships between indoor RH and COVID-19. 
 
 12. Supplementary_Section_12_Analyzing_Effects_of_Data_Processing
     * We examined the effects of different data pre-processing strategies on the final results and conclusions of the study. 
