@@ -11,18 +11,16 @@
 Folder that stores the compiled datasets used in the project. 
 
 1. Main text dataset
-   * This is the main dataset for this study. Used for the main text and most of the supplemental material. 
-2. Alternatively-processed datasets
-   * This is the raw dataset (no smoothing applied). 
-3. Follow-up validation datasets 
-   * This is an alternative dataset (3-day rolling avg applied vs. 7-day rolling avg for main dataset). 
-4. Outdoor and indoor climate datasets 
-   * This is the most recently retrieved dataset, used for confirmation of the study results. 
+   * This is the primary dataset for this study. Used for the main text as well as many supplemental analyses. 
+2. Supplementary data sub-directory 
+   * Follow-up validation datasets (to confirm the main study conclusions with newer datasets collected Dec 2020 and Jan 2021)  
+   * Alternatively-processed datasets (to evaluate the effect of different upstream data pre-processing steps)
+   * Outdoor and indoor climate datasets (to validate the indoor relative humidity extrapolation workflow)  
 
-### main_figures 
+### main_text
 Folder that stores the IPython notebook containing all of the figures and figure subsets presented in the main text of the paper. 
 
-1. 
+1. Main_Text_Figures_and_Stats
 
 ### supplementary_analysis
 Folder that stores all of the IPython notebooks that contain supplemental analyses and supporting information for the paper. 
