@@ -15,7 +15,7 @@ Folder that stores the compiled datasets used in the project.
    * This is the primary dataset for this study
    * Used for the main text and several supplemental analyses
 
-2. Supplementary data sub-directory 
+2. Supplementary data sub-folder 
    * Follow-up validation datasets (to confirm the main study conclusions with newer datasets collected Dec 2020 and Jan 2021)  
    * Alternatively-processed datasets (to evaluate the effect of different upstream data pre-processing steps)
    * Outdoor and indoor climate datasets (to validate the indoor relative humidity extrapolation workflow with experimental measurements)  
