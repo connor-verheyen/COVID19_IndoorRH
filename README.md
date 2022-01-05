@@ -2,14 +2,13 @@
 
 ## Project Abstract 
 
-![Hypothesis](/main_figures/screenshot_fig1_for_github.png)
+![Hypothesis](/main_text/screenshot_fig1_for_github.png)
 
 
 ## Repository Structure and Contents
 
 ### data 
 Folder that stores the compiled datasets used in the project. 
-
 1. Main text dataset
    * This is the primary dataset for this study. Used for the main text as well as many supplemental analyses. 
 2. Supplementary data sub-directory 
@@ -18,25 +17,18 @@ Folder that stores the compiled datasets used in the project.
    * Outdoor and indoor climate datasets (to validate the indoor relative humidity extrapolation workflow)  
 
 ### main_text
-Folder that stores the IPython notebook containing all of the figures and figure subsets presented in the main text of the paper. 
-
+Folder that stores the IPython notebook and the finalized figures for the analysis presented in the main text of the paper. 
 1. Main_Text_Figures_and_Stats
 
 ### supplementary_analysis
 Folder that stores all of the IPython notebooks that contain supplemental analyses and supporting information for the paper. 
 
-1. Section 1: We explored how changing the assumed indoor thermal comfort zone modified the resulting indoor RH and ultimately the relationships between indoor RH and COVID-19. 
-•	Supplementary_Section_01__Modifying_Assumed_Thermal_Comfort_Zone
-
-Section 2: We investigated how changing the assumed optimal RH range (in the main text, 40% to 60%) modified observed relationships between indoor RH and COVID-19. 
-Supplementary Text 
-Figs. S7 to S8 
-•	Supplementary_Section_02__Modifying_Optimal_Indoor_Climate_Window
-
-Section 3: We explored the relationships between outdoor weather variables and COVID-19 statistics using the same set of analytical approaches from the main text. 
-Supplementary Text 
-Figs. S9 to S12 
-•	Supplementary_Section_03__Analyzing_Outdoor_Weather_Variables
+1. Supplementary_Section_01__Modifying_Assumed_Thermal_Comfort_Zone
+   * We explored how changing the assumed indoor thermal comfort zone modified the resulting indoor RH and ultimately the relationships between indoor RH and COVID-19. 
+2. Supplementary_Section_02__Modifying_Optimal_Indoor_Climate_Window
+   * We investigated how changing the assumed optimal RH range (in the main text, 40% to 60%) modified observed relationships between indoor RH and COVID-19. 
+3. Supplementary_Section_03__Analyzing_Outdoor_Weather_Variables
+   * We explored the relationships between outdoor weather variables and COVID-19 statistics using the same set of analytical approaches from the main text. 
 
 Section 4: We performed a full analysis of indoor and outdoor data collected in various types of buildings (e.g. medical, residential) during cold months of the year and provide a comprehensive validation of our indoor RH extrapolation workflow. 
 Supplementary Text 
