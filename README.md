@@ -1,7 +1,8 @@
 # Associations between indoor relative humidity and global COVID-19 outcomes
+Journal of the Royal Society Interface
 Paper DOI: 10.1098/rsif.2021.0856
 
-[![DOI](https://zenodo.org/badge/306345738.svg)](https://zenodo.org/badge/latestdoi/306345738)
+Zenodo Code Archive DOI [![DOI](https://zenodo.org/badge/306345738.svg)](https://zenodo.org/badge/latestdoi/306345738)
 
 
 ## Project Abstract 
