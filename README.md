@@ -1,5 +1,8 @@
 # Associations between indoor relative humidity and global COVID-19 outcomes
-DOI: 10.1098/rsif.2021.0856
+Paper DOI: 10.1098/rsif.2021.0856
+
+[![DOI](https://zenodo.org/badge/306345738.svg)](https://zenodo.org/badge/latestdoi/306345738)
+
 
 ## Project Abstract 
 Globally, the spread and severity of COVID-19 has been distinctly non-uniform. Seasonality was suggested as a contributor to regional variability, but the relationship between weather and COVID-19 remains unclear and the focus of attention has been paid to outdoor conditions. Because humans spend most of their time indoors and because most transmission  occurs indoors, we here, instead, investigate the hypothesis that indoor climate – particularly indoor relative humidity (RH) – may be the more relevant modulator of outbreaks. To study this association, we combined population-based COVID-19 statistics and meteorological measurements from 121 countries. We rigorously processed epidemiological data to reduce bias, and developed and experimentally validated with direct data collection a computational workflow to estimate indoor conditions based on outdoor weather data and well documented and standard  indoor comfort conditions. Our comprehensive analysis showed robust and systematic relationships between regional outbreaks and indoor RH. In particular, we found intermediate RH (40%-60%) to be robustly associated with better COVID-19 outbreak outcomes (vs. RH <40% or >60%). Together, these results suggest that indoor conditions, particularly indoor RH modulate the spread and severity of COVID-19 outbreaks. 
