@@ -12,8 +12,6 @@ Zenodo code archive DOI:
 
 10.5281/zenodo.7195704
 
-[![DOI](https://zenodo.org/badge/306345738.svg)](https://zenodo.org/badge/latestdoi/306345738)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7195704.svg)](https://doi.org/10.5281/zenodo.7195704)
 
 
