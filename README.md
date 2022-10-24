@@ -1,10 +1,10 @@
 # Associations between indoor relative humidity and global COVID-19 outcomes
 
-This repository contains SI Material for the paper:
-C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856.
+*This repository contains SI Material for the paper:
+C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856.*
 
-Citation:
-Please cite C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856. when using any part of this repository or associated Zenodo. 
+*Citation:
+Please cite C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856. when using any part of this repository or associated Zenodo.*
 
 
 Journal article DOI: 10.1098/rsif.2021.0856
