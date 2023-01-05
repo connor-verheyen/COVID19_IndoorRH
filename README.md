@@ -12,9 +12,7 @@ Journal article DOI: 10.1098/rsif.2021.0856
 [![DOI](https://zenodo.org/badge/DOI/10.1098/rsif.2021.0856.svg)](https://doi.org/10.1098/rsif.2021.0856)
 
 
-Zenodo code/data archive DOI: 10.5281/zenodo.7195704
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7195704.svg)](https://doi.org/10.5281/zenodo.7195704)
+Zenodo code/data archive [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7195704.svg)](https://doi.org/10.5281/zenodo.7195704)
 
 
 
